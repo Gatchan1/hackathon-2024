@@ -9,6 +9,3 @@ How to run the project:
 - Clone github repo
 - ***npm install***
 - ***npm run dev***.
----
-
-Deployed at https://gatchan1.github.io/hackathon-2024/
